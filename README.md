@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sudharson B</h1>
 <h3 align="center">A passionate Python Full Stack developer from India</h3>
+<img width="500px" align="center" height="400px"src="https://camo.githubusercontent.com/cdd56b556149c7fd4939be631072a4df05be1346f52592296737a390d8159c85/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudharson-b&label=Profile%20views&color=0e75b6&style=flat" alt="sudharson-b" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharson-b" alt="sudharson-b" /></a> </p>
 
-- 🌱 I’m currently learning ****React ⚛️** and sharpening my skills in **Data Structures & Algorithms 📘****
+- 🌱 I’m currently learning **React ⚛️** and sharpening my skills in **Data Structures & Algorithms 📘**
 
-- 👯 I’m looking to collaborate on ****open source Python full stack projects (Django + React)****
+- 👯 I’m looking to collaborate on **open source Python full stack projects (Django + React)**
 
-- 🤝 I’m looking for help with ****Optimizing backend with Django/Flask****
+- 🤝 I’m looking for help with **Optimizing backend with Django/Flask**
 
-- 💬 Ask me about **💬 Ask me about **Python 🐍, Django 🌐, React ⚛️, Data Structures & Algorithms 📘, HTML 📝, CSS 🎨, Bootstrap 🅱️, and JavaScript 🚀****
+- 💬 Ask me about **Python 🐍, Django 🌐, React ⚛️, Data Structures & Algorithms 📘, HTML 📝, CSS 🎨, Bootstrap 🅱️, and JavaScript 🚀**
 
 - 📫 How to reach me **- Email: **sudharson13pmk@gmail.com** - LinkedIn: (https://www.linkedin.com/in/sudharson1309) - Portfolio:(https://sudharson-portfolio.com)**
 
